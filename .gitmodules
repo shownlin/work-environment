@@ -22,3 +22,9 @@
 [submodule ".vim/bundle/vim-diffchanges"]
 	path = .vim/bundle/vim-diffchanges
 	url = git@github.com:jmcantrell/vim-diffchanges.git
+[submodule ".vim/bundle/vim-airline"]
+	path = .vim/bundle/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule ".vim/bundle/vim-airline-themes"]
+	path = .vim/bundle/vim-airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes.git
