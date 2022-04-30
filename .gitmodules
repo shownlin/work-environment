@@ -19,3 +19,6 @@
 [submodule ".vim/bundle/mru"]
 	path = .vim/bundle/mru
 	url = git@github.com:yegappan/mru.git
+[submodule ".vim/bundle/vim-diffchanges"]
+	path = .vim/bundle/vim-diffchanges
+	url = git@github.com:jmcantrell/vim-diffchanges.git
