@@ -10,3 +10,6 @@
 [submodule ".vim/bundle/ack.vim"]
 	path = .vim/bundle/ack.vim
 	url = git@github.com:mileszs/ack.vim.git
+[submodule ".vim/bundle/highlight.vim"]
+	path = .vim/bundle/highlight.vim
+	url = git@github.com:vim-scripts/highlight.vim.git
