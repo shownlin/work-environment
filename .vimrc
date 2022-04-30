@@ -138,3 +138,6 @@ nmap <F12> :TrinityToggleAll<CR>
 "for built-in function
 nnoremap <A-Left> :tabprevious<CR>
 nnoremap <A-Right> :tabnext<CR>
+map <C-a> :<esc>ggVG<CR>
+map <C-t> :tabnew .<CR>
+
