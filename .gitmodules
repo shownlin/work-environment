@@ -1,45 +1,45 @@
 [submodule ".vim/bundle/SrcExpl"]
 	path = .vim/bundle/SrcExpl
-	url = git@github.com:wenlongche/SrcExpl.git
+	url = https://github.com/wenlongche/SrcExpl.git
 [submodule ".vim/bundle/Vundle.vim"]
 	path = .vim/bundle/Vundle.vim
-	url = git@github.com:VundleVim/Vundle.vim.git
+	url = https://github.com/VundleVim/Vundle.vim.git
 [submodule ".vim/bundle/Trinity"]
 	path = .vim/bundle/Trinity
-	url = git@github.com:wenlongche/Trinity.git
+	url = https://github.com/wenlongche/Trinity.git
 [submodule ".vim/bundle/ack.vim"]
 	path = .vim/bundle/ack.vim
-	url = git@github.com:mileszs/ack.vim.git
+	url = https://github.com/mileszs/ack.vim.git
 [submodule ".vim/bundle/highlight.vim"]
 	path = .vim/bundle/highlight.vim
-	url = git@github.com:vim-scripts/highlight.vim.git
+	url = https://github.com/vim-scripts/highlight.vim.git
 [submodule ".vim/bundle/jellybeans.vim"]
 	path = .vim/bundle/jellybeans.vim
-	url = git@github.com:nanotech/jellybeans.vim.git
+	url = https://github.com/nanotech/jellybeans.vim.git
 [submodule ".vim/bundle/mru"]
 	path = .vim/bundle/mru
-	url = git@github.com:yegappan/mru.git
+	url = https://github.com/yegappan/mru.git
 [submodule ".vim/bundle/vim-diffchanges"]
 	path = .vim/bundle/vim-diffchanges
-	url = git@github.com:jmcantrell/vim-diffchanges.git
+	url = https://github.com/jmcantrell/vim-diffchanges.git
 [submodule ".vim/bundle/vim-airline"]
 	path = .vim/bundle/vim-airline
-	url = git@github.com:vim-airline/vim-airline.git
+	url = https://github.com/vim-airline/vim-airline.git
 [submodule ".vim/bundle/vim-airline-themes"]
 	path = .vim/bundle/vim-airline-themes
-	url = git@github.com:vim-airline/vim-airline-themes.git
+	url = https://github.com/vim-airline/vim-airline-themes.git
 [submodule ".vim/bundle/vim-gitgutter"]
 	path = .vim/bundle/vim-gitgutter
-	url = git@github.com:airblade/vim-gitgutter.git
+	url = https://github.com/airblade/vim-gitgutter.git
 [submodule ".vim/bundle/taglist"]
 	path = .vim/bundle/taglist
-	url = git@github.com:yegappan/taglist.git
+	url = https://github.com/yegappan/taglist.git
 [submodule ".vim/bundle/tagbar"]
 	path = .vim/bundle/tagbar
-	url = git@github.com:preservim/tagbar.git
+	url = https://github.com/preservim/tagbar.git
 [submodule ".vim/bundle/vim-better-whitespace"]
 	path = .vim/bundle/vim-better-whitespace
-	url = git@github.com:ntpeters/vim-better-whitespace.git
+	url = https://github.com/ntpeters/vim-better-whitespace.git
 [submodule ".vim/bundle/nerdtree"]
 	path = .vim/bundle/nerdtree
-	url = git@github.com:preservim/nerdtree.git
+	url = https://github.com/preservim/nerdtree.git
