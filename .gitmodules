@@ -1,0 +1,3 @@
+[submodule ".vim/bundle/SrcExpl"]
+	path = .vim/bundle/SrcExpl
+	url = git@github.com:wenlongche/SrcExpl.git
