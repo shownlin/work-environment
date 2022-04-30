@@ -1,0 +1,20 @@
+[auser]
+	name = shownlin
+	email = shownlin001cm@gmail.com
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	aa = add -A .
+	cm = commit -m
+	amend = commit --amend
+	ls = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	ll = log --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --numstat
+	lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+	gr = grep -Ii
+	la = "!git config -l | grep alias | cut -c 7-"
+[user]
+	email = shownlin001cm@gmail.com
+	name = shownlin
+[core]
+	editor = vim
