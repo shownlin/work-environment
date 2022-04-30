@@ -40,3 +40,6 @@
 [submodule ".vim/bundle/vim-better-whitespace"]
 	path = .vim/bundle/vim-better-whitespace
 	url = git@github.com:ntpeters/vim-better-whitespace.git
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = git@github.com:preservim/nerdtree.git
