@@ -119,7 +119,6 @@ endfunction
 nmap <F9> :call MyNERDTree()<CR>
 "nmap <F9> :TrinityToggleNERDTree<CR>
 let NERDTreeWinPos="right"
-let NERDTreeMapOpenInTab='<ENTER>'
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
 "for SrcExpl
