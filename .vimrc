@@ -85,9 +85,25 @@ endif
 "for MRU
 nmap <F7> :MRU<CR>
 
+"for Tagbar
+function! MyTagbar()
+	if exists("g:TagList_title") && (bufwinnr(g:TagList_title) != -1)
+		:TrinityToggleTagList
+	endif
+	:TagbarToggle
+endfunction
+let g:tagbar_left=1
+nmap <F7> :call MyTagbar()<CR>
+
 "for TagList
 "nmap <F8> :TlistToggle<CR>
-nmap <F8> :TrinityToggleTagList<CR>
+function! MyTagList()
+	if exists(":Tagbar") && tagbar#IsOpen()
+		:TagbarToggle
+	endif
+	:TrinityToggleTagList
+endfunction
+nmap <F8> :call MyTagList()<CR>
 let Tlist_Show_One_File=1
 let Tlist_Exit_OnlyWindow=1
 set ut=100
