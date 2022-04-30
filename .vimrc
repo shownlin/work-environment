@@ -83,7 +83,7 @@ if has("cscope")
 endif
 
 "for MRU
-nmap <F7> :MRU<CR>
+noremap <F1> :MRU<CR>
 
 "for DiffChanges
 nmap <F2> :DiffChangesDiffToggle<CR>
