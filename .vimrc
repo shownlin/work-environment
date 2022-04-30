@@ -85,6 +85,9 @@ endif
 "for MRU
 nmap <F7> :MRU<CR>
 
+"for DiffChanges
+nmap <F2> :DiffChangesDiffToggle<CR>
+
 "for Tagbar
 function! MyTagbar()
 	if exists("g:TagList_title") && (bufwinnr(g:TagList_title) != -1)
