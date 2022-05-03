@@ -141,5 +141,5 @@ nmap <F12> :TrinityToggleAll<CR>
 nnoremap <A-Left> :tabprevious<CR>
 nnoremap <A-Right> :tabnext<CR>
 map <C-a> :<esc>ggVG<CR>
-map <C-t> :tabnew .<CR>
+nmap <F3> :tabnew .<CR>
 
